@@ -29,6 +29,7 @@ namespace V1._0
             // Clear inputs
             txtTask.Clear();
             txtDueDate.Clear();
+
         }
 
     }
